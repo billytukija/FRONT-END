@@ -1,5 +1,13 @@
 # HelloWorld
 
+## Processo for this project creation
+ 
+1. npm install -g @angular/cli(Only if you don't have angularJS installed in your pc)
+2. ng new [YourProjectName] (To create a new project)
+3. cd [YourProjectName] (access your project)
+4. ng serve (To run the server)
+5. localhost:4200 (To access your project in the browser)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 ## Development server
